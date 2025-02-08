@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4bzkpF9XgRz1C/Brain-Scan-Concept-Animation.webp" width="70%">
+  <img src="https://raw.githubusercontent.com/MOHAMED-SALHA/GraduationProject/main/Brain-Scan-Concept-Animation.webp"" width="70%">
 </p>
 
 ## 🌍 **About the Project**
